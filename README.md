@@ -3,7 +3,7 @@ conteudos acerca dos estudos das aulas de programação 2
 
 ## RoadMap
 
-[1- Tipos Primitivos]{conteudo/TiposPrimitivos.md}
+[1- Tipos primitivos]{conteudo/TiposPrimitivos.md}
 
 
 
