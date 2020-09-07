@@ -1,0 +1,25 @@
+#Operadores
+
+Os operadores aritméticos são operadores binários, ou seja, funcionam com dois operandos. 
+Por exemplo, a expressão “a + 1” contém o operador binário “+” (mais) e os dois operandos “a” e “1”.
+
+resumindo o que foi explicitado, nos dois textos podemos identificar do lado esquerdo e direito são os operando, já o meio "+" é o operador.
+
+
+Operação	  Operador	Expressão algébrica	      Expressão Java
+Adição	        + 	          a + 1	                a + 1
+Subtração	      -	            b - 2	                b - 2
+Multiplicação  	*	             cm	                  c * m
+Divisão	        /	            d / e	                d / e
+Resto	          %	            f mod g	              f % g
+
+Uma observação que podemos destacar:a divisão de inteiros produz um quociente do tipo inteiro, quando possuímos o número 1 maior que o número 2;
+por exemplo, a expressão 9 / 6 o resultado é interpretado como 1 e a expressão 23 / 8 é avaliada como 2.
+
+#Operadores de igualdade e operadores relacionais
+
+Uma condição é uma expressão que pode ser verdadeira ou falsa, ou seja um valor do tipo Booleano.
+
+A instrução de seleção if permite um programa tomar uma decisão com base no valor de uma condição.
+
+operadores de igualdade (== e !=) e operadores relacionais (>,<, >=, <=).
